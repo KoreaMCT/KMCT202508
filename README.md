@@ -28,6 +28,7 @@ Microsoft 공식 업데이트부터 자유로운 네트워킹까지, 따뜻한 �
 1. 안성진님: Microsoft Partner 등록 및 관련 정보 안내
 2. 진미나님: MCT Program 7월 & 8월 업데이트, Microsoft ESI 과정 최신 정보 안내
 3. MCT 캐주얼 네트워킹 타임: 포스트잇 TMI 질문 & 자유 Q&A, 편하게 나누는 시간
+<img width="1486" height="1117" alt="image" src="https://github.com/user-attachments/assets/95060a5d-9cdf-4879-96a9-003312c2a4de" />
 
 
 ---
